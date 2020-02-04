@@ -16,8 +16,11 @@
   - Ubuntu 14.04, 16.04
 - 言語
   - Ruby
+    - ３年程度使用
   - PHP
+    - ３年程度使用
   - Python
+    - ３年程度使用
   - Java
   - Javascript
   - HTML/CSS
