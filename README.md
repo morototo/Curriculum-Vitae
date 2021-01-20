@@ -22,11 +22,11 @@ https://team-unicorn.jp/
   - Ubuntu 14.04, 16.04
 - 言語
   - Ruby
-    - ３年程度使用
+    - 4年程度使用
   - PHP
     - ３年程度使用
   - Python
-    - ３年程度使用
+    - 4年程度使用
   - Java
   - Javascript
   - HTML/CSS
@@ -82,6 +82,8 @@ https://team-unicorn.jp/
   - AWS
     - EC2
     - ECS(Fargate)
+    - Elastic Beanstalk
+    - Batch
     - Route53
     - S3
     - Athena
@@ -91,6 +93,7 @@ https://team-unicorn.jp/
     - IAM
     - Elasticsearch service
     - SageMaker
+    - EMR
   - 機械学習系
     - mlflow
     
