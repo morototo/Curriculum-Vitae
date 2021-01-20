@@ -147,13 +147,12 @@ https://team-unicorn.jp/
 
 #### 2020/11 ~ 
 ##### DB整備
-- 機械学習バッチのAutoSchaling化
+- 機械学習バッチのAutoScaling化
 ```
 使用言語/環境
 - Python 3.7.5
 - AWS(EMR)
 ```
-
 
 #### 2020/07 ~ 2020/11
 ##### DB整備
