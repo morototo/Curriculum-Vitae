@@ -21,6 +21,8 @@ https://team-unicorn.jp/
   - CentOS 6.9, 7.2
   - Ubuntu 14.04, 16.04
 - 言語
+  - Scala
+    - Biginner
   - Ruby
     - 4年程度使用
   - PHP
@@ -47,6 +49,8 @@ https://team-unicorn.jp/
     - passportを使用した認証サーバとして構築経験あり
   - FuelPHP
     - APIで開発経験あり
+  - Play framework
+    -  Biginner
   - jQuery
   - React.js
   - Play Framework
@@ -73,12 +77,15 @@ https://team-unicorn.jp/
     - Jenkins
     - Capistrano
     - CircleCI
+    - ServerlessFramework
   - 負荷ツール
     - Locust
     - Jmeter
   - 監視ツール
     - Mackerel
     - NewRelic
+    - PagerDuty
+    - 
   - AWS
     - EC2
     - ECS(Fargate)
@@ -94,6 +101,7 @@ https://team-unicorn.jp/
     - Elasticsearch service
     - SageMaker
     - EMR
+    - EKS
   - 機械学習系
     - mlflow
     
@@ -142,10 +150,15 @@ https://team-unicorn.jp/
 
 ---
 
-### 2017/01 ~  ソフトウェア開発会社(正社員）
+### 2021/04 ~ 現在 ソフトウェア開発会社(正社員）
+  SREとして勤務
+
+---
+
+### 2017/01 ~ 2021/03 ソフトウェア開発会社(正社員）
   システムエンジニアとして自社サービスの開発に従事
 
-#### 2020/11 ~ 
+#### 2020/11 ~ 2020/12
 ##### DB整備
 - 機械学習バッチのAutoScaling化
 ```
