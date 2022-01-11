@@ -61,6 +61,7 @@ https://team-unicorn.jp/
     - Elasticsearch
     - MongoDB
     - Redis
+    - Solr
   - Webサーバ
     - Nginx
     - Apache
@@ -81,11 +82,11 @@ https://team-unicorn.jp/
   - 負荷ツール
     - Locust
     - Jmeter
+    - Gatling
   - 監視ツール
     - Mackerel
     - NewRelic
     - PagerDuty
-    - 
   - AWS
     - VPC
     - CloudFront
