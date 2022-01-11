@@ -87,21 +87,43 @@ https://team-unicorn.jp/
     - PagerDuty
     - 
   - AWS
+    - VPC
+    - CloudFront
+    - API Gateway
     - EC2
     - ECS(Fargate)
     - Elastic Beanstalk
+    - CloudFormation
+    - Systems Manager
     - Batch
     - Route53
     - S3
     - Athena
     - RDS
-    - Lambda
+    - ElastiCache
+    - EFS
+    - Lambda  
     - DataPipeline
     - IAM
-    - Elasticsearch service
+    - Elasticsearch service（Opensearch）
+    - Kinesis
     - SageMaker
     - EMR
     - EKS
+    - ECR
+    - CodeDeploy
+    - CodeCommit
+    - CodePipeline
+    - CodeBuild
+    - Security Hub
+    - Inspector
+    - CloudTrail
+    - CloudWatch
+    - Organizations
+    - Secrets Manager
+    - Single Sign-On
+    - Cost Explorer
+    - WAF
   - 機械学習系
     - mlflow
     
