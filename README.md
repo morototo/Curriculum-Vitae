@@ -18,6 +18,7 @@ https://team-unicorn.jp/
 - OS
   - Amazon Linux
   - Amazon Linux2
+  - Amazon Linux２０２３
   - CentOS 6.9, 7.2
   - Ubuntu 14.04, 16.04
 - 言語
@@ -72,6 +73,7 @@ https://team-unicorn.jp/
     - Fluentd
   - 構成管理
     - Ansible
+    - Packer
     - Chef
     - Terraform
   - DevOps
@@ -87,6 +89,7 @@ https://team-unicorn.jp/
     - Mackerel
     - NewRelic
     - PagerDuty
+    - Nagios
   - AWS
     - VPC
     - CloudFront
