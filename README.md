@@ -5,8 +5,8 @@
 |:-----------|------------:|
 | 名前       |諸角和希(Kazuki Morokado)|
 | 出身       |北海道札幌市|
-| 年齢       |３2|
-| 居住地     |福岡県福岡市西区|
+| 年齢       |34|
+| 居住地     |福岡県福岡市|
 | 趣味       |アメリカンフットボール|
 - ブルザイズ東京所属 2018年5月~2019年11月
 https://bullseyes.net/
@@ -20,16 +20,16 @@ https://team-unicorn.jp/
   - Amazon Linux2
   - Amazon Linux２０２３
   - CentOS 6.9, 7.2
-  - Ubuntu 14.04, 16.04
+  - Ubuntu 14.04, 16.04, 20.04, 22.04
 - 言語
   - Scala
     - Biginner
   - Ruby
-    - 4年程度使用
+    - 6年程度使用
   - PHP
     - ３年程度使用
   - Python
-    - 4年程度使用
+    - 6年程度使用
   - Java
   - Javascript
   - HTML/CSS
@@ -110,7 +110,7 @@ https://team-unicorn.jp/
     - DataPipeline
     - IAM
     - Elasticsearch service（Opensearch）
-    - Kinesis
+    - Data Firehose
     - SageMaker
     - EMR
     - EKS
@@ -119,6 +119,7 @@ https://team-unicorn.jp/
     - CodeCommit
     - CodePipeline
     - CodeBuild
+    - CodeCatalyst
     - Security Hub
     - Inspector
     - CloudTrail
@@ -128,6 +129,10 @@ https://team-unicorn.jp/
     - Single Sign-On
     - Cost Explorer
     - WAF
+    - Glue
+    - Detective
+    - GuardDuty
+    - SecretManager
   - 機械学習系
     - mlflow
     
