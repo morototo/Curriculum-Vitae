@@ -13,12 +13,11 @@ https://bullseyes.net/
 - ユニコーン所属 2021年8月~現在
 https://team-unicorn.jp/
 
-
 ## スキル
 - OS
   - Amazon Linux
   - Amazon Linux2
-  - Amazon Linux２０２３
+  - Amazon Linux2023
   - CentOS 6.9, 7.2
   - Ubuntu 14.04, 16.04, 20.04, 22.04
 - 言語
@@ -69,6 +68,7 @@ https://team-unicorn.jp/
   - 仮想環境
     - Docker
     - Vagrant
+    - Parallels
   - ログ管理
     - Fluentd
   - 構成管理
@@ -138,12 +138,18 @@ https://team-unicorn.jp/
     
 ## 強み
 - どちらかというとフロントよりインフラ/バックエンドの方が得意
+- AWS環境構築・
 - 経理経験があるので経理関係の開発は割と得意
 - コミュニケーションは苦手ではないので人前に出て話すのも苦ではない
 
 ---
 
 ## 職務経歴
+### 2021/04 ~ ソフトウェア開発会社(正社員）
+  SREとして勤務
+
+---
+
 ### 2020/05 ~  ソフトウェア開発会社(業務委託）
   システムエンジニアとして自社サービスの開発に従事
 #### 2020/05 ~
@@ -178,11 +184,6 @@ https://team-unicorn.jp/
 - Ruby on Rails (4.2.5 ~ 5.1.4)
 - Heroku AWS S3 MySQL
 ```
-
----
-
-### 2021/04 ~ 現在 ソフトウェア開発会社(正社員）
-  SREとして勤務
 
 ---
 
