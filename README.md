@@ -145,8 +145,7 @@ https://team-unicorn.jp/
 ---
 
 # 職務経歴
-## 2021 ~ 現在
-  SREとして勤務
+# 2021 ~  ソフトウェア開発会社/SRE(正社員）
 ### 2024
 - 開発・本番環境のAWSアカウント分離
 - 統制周りの整備（AWS SSO/AWS Organization）
@@ -179,37 +178,26 @@ https://team-unicorn.jp/
 
 ---
 
-# 2020 ~  ソフトウェア開発会社(業務委託）
-  システムエンジニアとして自社サービスの開発に従事
+# 2017 ~ ソフトウェア開発会社/フルスタック(業務委託）
 ## 2020
 ### ビジネスコミュニケーションツールのコミュニケーション解析APIの構築
 - APIの開発、運用
 - データの可視化
 ```
 - Ruby 2.7.1
-- Rails 6.0.2
+- Ruby on Rails 6.0.2
 - PosgreSQL 12.2
-- Ruby on Rails ()
 - AWS(S3, Athena, EC2)
 ```
-
----
-# 2017/10 ~  ソフトウェア開発会社(業務委託）
-  システムエンジニアとして自社サービスの開発に従事
-
-## 2020
 ### BtoB 英語学習サービス開発 
 ```
-使用言語/環境
 - Ruby (2.6.6)
 - Ruby on Rails (5.2.4.4)
 - Heroku AWS S3 MySQL
 ```
-## 2017-2020
 ### BtoC, BtoB マッチングWebサービス開発 
 - 自社所有のマッチングWebサービスをカスタマイズ開発
 ```
-使用言語/環境
 - Ruby (2.3.5 ~ 2.5.1)
 - Ruby on Rails (4.2.5 ~ 5.1.4)
 - Heroku AWS S3 MySQL
@@ -217,14 +205,11 @@ https://team-unicorn.jp/
 
 ---
 
-# 2017-2020 ソフトウェア開発会社(正社員）
-  システムエンジニアとして自社サービスの開発に従事
-
+# 2017-2020 ソフトウェア開発会社/フルスタック(正社員）
 ## 2020
 ### DB整備
 - 機械学習バッチのAutoScaling化
 ```
-使用言語/環境
 - Python 3.7.5
 - AWS(EMR)
 ```
@@ -233,7 +218,6 @@ https://team-unicorn.jp/
 - 位置情報系のデータ整備
 - DB移管（Aurora->Athena）
 ```
-使用言語/環境
 - 位置情報系DB
   - IPC, OSM, Zenrin
 - AWS(Aurora, Athena)
@@ -244,7 +228,6 @@ https://team-unicorn.jp/
 - 管理コストの削減のため
 - mlflow, SageMakerへの負荷試験の実施
 ```
-使用言語/環境
 - Jmeter
 - mlflow 1.9.1
 - AWS(EC2, SageMaker)
@@ -255,7 +238,6 @@ https://team-unicorn.jp/
 - PostgreSQL, Athenaへのインポート
 - 仕様整理
 ```
-使用言語/環境
 - PostgreSQL
 - AWS(Athena)
 ```
@@ -265,7 +247,6 @@ https://team-unicorn.jp/
 - 自社サーバを全てECRに移行し、Auto Scalingによる自動スケーリングを作成
 - CircleCIとECRを接続し、DevOps環境を構築
 ```
-使用言語/環境
 - AWS(EC2, ECR(+Fargate))
 - CircleCI2.1
 ```
@@ -274,7 +255,6 @@ https://team-unicorn.jp/
 ### 外部公開API改修
 - API速度改善の為、APIが自社サーバ（Elasticsearch）を参照している箇所を全てAthenaに変更する修正
 ```
-使用言語/環境
 - Django 2.0
 - Python 3.5.1 
 - AWS(Athena)
@@ -283,7 +263,6 @@ https://team-unicorn.jp/
 ### 負荷試験ツールの作成
 - 汎用性のある負荷試験ツールを作成し、シナリオを作成すれば本番同様の環境に負荷試験ができるようにした
 ```
-使用言語/環境
 - Jmeter
 - Python 3.5.1 
 - AWS(EC2)
@@ -293,7 +272,6 @@ https://team-unicorn.jp/
 - 他社データを可視化する管理サーバ開発
 - iOS,Androidアプリからのデータを動的に表示する管理画面を作成
 ```
-使用言語/環境
 - Ruby2.5.1
 - Ruby on Rails 5.2.1
 - AWS(S3, Lambda)
@@ -305,7 +283,6 @@ https://team-unicorn.jp/
 - FuelPHPで使用しているAPIの認証部分を全てLaravelに移行
 - DBサーバをNoSQLからRDBMSへ移行
 ```
-使用言語/環境
 - FuelPHP 1.7.1
 - Laravel 5.6
 - MongoDB Atlas
@@ -319,7 +296,6 @@ https://team-unicorn.jp/
 - Mackerelによる監視システムの導入 
 - 踏み台サーバの構築
 ```
-使用言語/環境
 - Jenkins 2.157
 - CircleCI 2.0 
 - Chef 12.5.1 
@@ -331,7 +307,6 @@ https://team-unicorn.jp/
 ### 自社保有のElasticsearchサーバをAWS Elaticseachへ切り替え 
 - ユーザ増加に伴い負荷軽減、運用効率向上を目的としてElasticsearchをAWSへ切り替え
 ```
-使用言語/環境
 - Elasticsearch 5.6.1
 - AWS Elasticsearch
 - Fluentd
@@ -341,7 +316,6 @@ https://team-unicorn.jp/
 ### 管理画面サーバ開発
 - 自社サーバ内に保存されているデータを外部に公開するサーバ開発
 ```
-使用言語/環境
 - Ruby on Rails 5.2.1
 - Ruby 2.5.1
 - Ubuntu 16.04
@@ -351,7 +325,6 @@ https://team-unicorn.jp/
 - APIサーバ開発、管理画面開発
 - sidekiqを使用した非同期処理を実装
 ```
-使用言語/環境
 - Ruby on Rails 5.1.6 
 - Ruby 2.5.1 
 - Ubuntu 14.04
@@ -361,7 +334,6 @@ https://team-unicorn.jp/
 ### GDPR対応
 - 現サーバ環境をすべてAWSのEUリージョンに構築 
 ```
-使用言語/環境
 - AWS EC2
 - Chef
 - capistrano 
@@ -371,7 +343,6 @@ https://team-unicorn.jp/
 ### 自社データを参照するDevelopment Kit(Python) を使用したAPI開発
 - 自社データを外部から参照できるAPIを開発 
 ```
-使用言語/環境
 - Django 2.0
 - Python 3.5.1 
 - CentOS7.2
@@ -379,7 +350,6 @@ https://team-unicorn.jp/
 ### 位置情報を使用した健康アプリのサーバ開発
 - Gaurunによるプッシュ通知サーバ構築・開発。sidekiqによる非同期処理サーバ構築・開発。
 ```
-使用言語/環境
 - Ruby on Rails 4.2.3
 - Ruby 2.2.2
 - sidekiq 5.0.4
@@ -390,7 +360,6 @@ https://team-unicorn.jp/
 ### Elasticsearch バージョンアップ対応
 - バージョンアップに伴うサーバ修正作業 
 ```
-使用言語/環境
 - Elasticsearch1.7.3
 - Elasticsearch5.5.2 
 ```
@@ -404,7 +373,6 @@ https://team-unicorn.jp/
 ### SNS連携認証開発
 - Wifi認証サーバにおけるSNS連携を利用した認証機能の開発
 ```
-使用言語/環境
 - Java
 - MySQL
 - RedHatLinux
@@ -414,7 +382,6 @@ https://team-unicorn.jp/
 ##### サーバ機能拡張・開発
 - サーバ開発における他サーバとの通信機能の開発
 ```
-使用言語/環境
 - Java
 - HTML
 - JavaScript
