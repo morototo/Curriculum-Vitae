@@ -144,16 +144,45 @@ https://team-unicorn.jp/
 
 ---
 
-## 職務経歴
-### 2021
+# 職務経歴
+## 2021 ~ 現在
   SREとして勤務
+### 2024
+- 開発・本番環境のAWSアカウント分離
+- 統制周りの整備（AWS SSO/AWS Organization）
+- PHP EOL対応
+- Trellis開発環境移行（Vagrant -> Lima）
+- SecurityHubレコード対応
+### 2023
+- EC2からECS on Fargateへの移行対応
+- CodeCatalyst導入検討
+- AWS EKS運用整備
+- NodejsEOL対応
+- ServerlessFramework Upgrade対応
+- 監査ログ対応
+- SecurityHubレコード対応
+### 2022
+- 開発・本番環境のAWSアカウント分離
+- ステータスサイトのサービス選定・構築・運用整備・リリース
+- IaC活動
+- DR演習（AWS Fault Injection Service）
+- AWS利用ガイドライン作成（監査対応）
+- 監査ログ対応
+- WAF導入
+- SecurityHubレコード対応
+## 2021
+- 開発・本番環境のAWSアカウント分離
+- PostgreSQL Upgrade
+- FTR合格
+- Log4j対応
+- 監査ログ対応
 
 ---
 
-### 2020 ~  ソフトウェア開発会社(業務委託）
+## 2020 ~  ソフトウェア開発会社(業務委託）
   システムエンジニアとして自社サービスの開発に従事
-#### 2020
-##### ビジネスコミュニケーションツールのコミュニケーション解析APIの構築
+### 2020
+#### ビジネスコミュニケーションツールのコミュニケーション解析APIの構築
 - APIの開発、運用
 - データの可視化
 ```
